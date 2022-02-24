@@ -1,0 +1,10 @@
+export const SEARCH_MOVIES = "SEARCH_MOVIES";
+export const SEARCH_SERIES = "SEARCH_SERIES";
+export const SEARCH_MOVIE = "SEARCH_MOVIE";
+export const SEARCH_SERIE = "SEARCH_SERIE";
+export const CLEAR_MOVIES = "CLEAR_MOVIES";
+export const CLEAR_SERIES = "CLEAR_SERIES";
+export const CLEAR_SERIE = "CLEAR_SERIE";
+export const CLEAR_MOVIE = "CLEAR_MOVIE";
+export const SET_LOADING = "SET_LOADING";
+export const SET_TYPE_SHOW = "SET_TYPE_SHOW";
